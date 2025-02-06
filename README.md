@@ -17,5 +17,5 @@
 - Email: [email@example.com]
 - LinkedIn: [LinkedIn]
 
-![Біздің суретіміз](https://github.com/ваш-username/my-profiley/blob/main/photo.jpg?raw=true)
+![Біздің суретіміз](https://github.com/ваш-username/my-profile-/blob/main/photo.jpg?raw=true)
 
