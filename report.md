@@ -31,5 +31,5 @@
 Жоба сәтті болды және барлық мақсаттарға жеттік.
 
 ## Сілтемелер
-- [Жоба репозиториясы](https://github.com/ваш-username/my-profiley)
+- [Жоба репозиториясы](https://github.com/ваш-username/my-profile-)
 
